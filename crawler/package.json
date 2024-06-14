@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "bee-queue": "^1.7.1"
+  }
+}
