@@ -1,5 +1,22 @@
 {
   "dependencies": {
-    "bee-queue": "^1.7.1"
+    "bee-queue": "^1.7.1",
+    "puppeteer": "^22.11.0",
+    "puppeteer-core": "^22.11.0"
+  },
+  "name": "crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5"
   }
 }
