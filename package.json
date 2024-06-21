@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "prepare-dev": "cd api; npm i && cd crawler; npm i"
+  },
   "dependencies": {
     "fs": "^0.0.1-security",
     "module": "^1.2.5",
